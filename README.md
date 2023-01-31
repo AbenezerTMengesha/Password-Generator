@@ -1,5 +1,5 @@
 # Password Generator 
-Deployable link:
+Deployable link: https://abenezertmengesha.github.io/Password-generator/
 
 ![Password](https://user-images.githubusercontent.com/90799809/215837980-3bedc098-a445-4298-9dd8-1b854a3bca91.png)
 
